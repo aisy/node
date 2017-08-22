@@ -1,1 +1,338 @@
-[{"category":"Fashion","link":"https://m.bnizona.com/promo/index/16"},{"category":"Groceries","link":"https://m.bnizona.com/promo/index/17"},{"category":"Food and Beverage","link":"https://m.bnizona.com/promo/index/18"},{"category":"Electronic","link":"https://m.bnizona.com/promo/index/19"},{"category":"Gadget","link":"https://m.bnizona.com/promo/index/20"},{"category":"Travel","link":"https://m.bnizona.com/promo/index/23"},{"category":"Hotel","link":"https://m.bnizona.com/promo/index/24"},{"category":"Health Service","link":"https://m.bnizona.com/promo/index/25"},{"category":"Miscellaneous","link":"https://m.bnizona.com/promo/index/26"},{"category":"Entertainment","link":"https://m.bnizona.com/promo/index/28"},{"category":"e-Commerce","link":"https://m.bnizona.com/promo/index/44"}]
+[
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Groceries",
+        "data": []
+    },
+    {
+        "category": "Electronic",
+        "data": []
+    },
+    {
+        "category": "Electronic",
+        "data": []
+    },
+    {
+        "category": "Electronic",
+        "data": []
+    },
+    {
+        "category": "Gadget",
+        "data": []
+    },
+    {
+        "category": "Gadget",
+        "data": []
+    },
+    {
+        "category": "Gadget",
+        "data": []
+    },
+    {
+        "category": "Gadget",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Food and Beverage",
+        "data": []
+    },
+    {
+        "category": "Fashion",
+        "data": []
+    },
+    {
+        "category": "Fashion",
+        "data": []
+    },
+    {
+        "category": "Fashion",
+        "data": []
+    },
+    {
+        "category": "Fashion",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "e-Commerce",
+        "data": []
+    },
+    {
+        "category": "Entertainment",
+        "data": []
+    },
+    {
+        "category": "Entertainment",
+        "data": []
+    },
+    {
+        "category": "Entertainment",
+        "data": []
+    },
+    {
+        "category": "Entertainment",
+        "data": []
+    },
+    {
+        "category": "Entertainment",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Miscellaneous",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Hotel",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Health Service",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    },
+    {
+        "category": "Travel",
+        "data": []
+    }
+]
