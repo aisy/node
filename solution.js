@@ -13,11 +13,11 @@ osmosis(link1)
     .follow('a@href')
     .find('.list2 li')
     .set({
-        //  "merchant-name"   : ".merchant-name",
-        //  "imageurl"       : "img@src",
-        //  "promo-title"    : ".promo-title",
-        //  "valid-until"    : ".valid-until" 
-        "data":['.merchan-name']  
+         "merchant-name"   : ".merchant-name",
+         "imageurl"       : "img@src",
+         "promo-title"    : ".promo-title",
+         "valid-until"    : ".valid-until" 
+        // "data":['.merchan-name']  
         })
     .data(function(data){
         console.log(data)

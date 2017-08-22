@@ -1,338 +1,590 @@
 [
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Indomaret",
+        "imageurl": "https://m.bnizona.com/files/c1aea2b86b2349ed45f7fc727d764337.JPG",
+        "promo-title": "Free 1 Minyak Goreng Bimoli Refill 1Lt di Indomaret dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 September 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "LOTTEMart Hypermarket",
+        "imageurl": "https://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+        "promo-title": "Gratis 6 Produk Pilihan di LOTTEMart Hypermarket dengan Kartu Kredit BNI",
+        "valid-until": "valid until 27 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Super Indo",
+        "imageurl": "https://m.bnizona.com/files/a96a35abc24d8a7fae5d3d5f374c66d7.JPG",
+        "promo-title": "Diskon 20% untuk Fresh Product di Super Indo setiap Jumat, Sabtu, Minggu dengan Kartu BNI",
+        "valid-until": "valid until 27 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Alfamidi",
+        "imageurl": "https://m.bnizona.com/files/fa9567ce83ef967c97aaab7afed02fff.jpg",
+        "promo-title": "Free Chicken Stick So Good all variant & 1 Forvitta Margarine 200 Gr di Alfamidi dengan Kartu Debit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "FamilyMart",
+        "imageurl": "https://m.bnizona.com/files/26cddebd901754e73075ae66aa139639.png",
+        "promo-title": "Dapatkan Fresh Beverages Seharga Rp 71,- di FamilyMart dengan TapCash FamilyMart",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Indomaret",
+        "imageurl": "https://m.bnizona.com/files/c1aea2b86b2349ed45f7fc727d764337.JPG",
+        "promo-title": "Gratis Minute Maid Pulpy Setiap Senin di Indomaret dengan TapCash",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Alfamart",
+        "imageurl": "https://m.bnizona.com/files/5b677f1f03197bce0c4a8f7fdbe98270.jpg",
+        "promo-title": "Dapatkan Kopiko 78 seharga Rp 71,- di Alfamart dengan TapCash",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "Toko Sinar Terang Lumajang",
+        "imageurl": "https://m.bnizona.com/files/bcfd5c4979a6b047c1c11e5dfd11d46b.jpg",
+        "promo-title": "Gratis Minyak Goreng 1L di Toko Sinar Terang Lumajang dengan Kartu Debit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Belanja Hemat berawal dari Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Groceries",
-        "data": []
+        "merchant-name": "LOTTEMart Hypermarket",
+        "imageurl": "https://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+        "promo-title": "Tambahan diskon 10% dengan Kartu Kredit LOTTEMart setiap Sabtu di akhir bulan",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Fashion",
+        "merchant-name": "Centro",
+        "imageurl": "https://m.bnizona.com/files/1aa0dd2a47c06f4e30d8bc304d9ad535.jpg",
+        "promo-title": "BNI Shop & Win dengan Kartu Kredit BNI di Centro Dept Store, Parkson Dept Store dan Parkson Gourmetmart",
+        "valid-until": "valid until 30 November 2017"
+    },
+    {
+        "category": "Fashion",
+        "merchant-name": "Megaria Batik Malang",
+        "imageurl": "https://m.bnizona.com/files/9a4a52c02e396387dd4753ac4c48a469.png",
+        "promo-title": "Diskon Hingga 20% di Megaria Batik Malang dengan Kartu BNI",
+        "valid-until": "valid until 31 July 2018"
+    },
+    {
+        "category": "Fashion",
+        "merchant-name": "Matsuya Ginza Jepang",
+        "imageurl": "https://m.bnizona.com/files/c876924e3d04f5d3962ef3d14f049f53.jpg",
+        "promo-title": "Diskon 5% di Matsuya Ginza Jepang",
+        "valid-until": "valid until 30 April 2018"
+    },
+    {
+        "category": "Fashion",
+        "merchant-name": "Shafira",
+        "imageurl": "https://m.bnizona.com/files/6efcf507ce5bd867ad106939fc2110ae.jpg",
+        "promo-title": "Diskon hingga 25% di Shafira Group dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Kertanegara Group",
+        "imageurl": "https://m.bnizona.com/files/cf61944c946c7d333b53646eb7a317f6.jpg",
+        "promo-title": "Diskon 20% di Kertanegara Malang dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 September 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Promo HUT RI 72 - Dining & Entertainment",
+        "valid-until": "valid until 03 September 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Waroeng Bamboe",
+        "imageurl": "https://m.bnizona.com/files/4adf76c0e4d20546369ad94017ed8d44.jpg",
+        "promo-title": "Gratis 3 Pcs Teh Kotak 330Ml di Waroeng Bamboe dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Collage - Pullman",
+        "imageurl": "https://m.bnizona.com/files/a40342d5b83caca055b5648cad713d51.JPG",
+        "promo-title": "Diskon Hingga 50% di Collage - Pullman  dengan Kartu BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Wendys",
+        "imageurl": "https://m.bnizona.com/files/a0f03f924c79039c83c84e9d805c98b9.jpg",
+        "promo-title": "Beli 1 Gratis 1 atau Diskon 20% di Wendy's dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 April 2018"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Baskin-Robbins",
+        "imageurl": "https://m.bnizona.com/files/9dab992824e71351dbe12a6ee25af16b.png",
+        "promo-title": "Beli 1 Gratis 1 atau Diskon 20% di Baskin-Robbins dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 April 2018"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "The Coffee Bean & Tea Leaf",
+        "imageurl": "https://m.bnizona.com/files/eab384861a66be86ae0ceff61fb4ddb7.jpg",
+        "promo-title": "Beli 1 Gratis 1 atau Diskon 20% di The Coffee Bean & Tea Leaf dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 April 2018"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Goedang Oleh Oleh",
+        "imageurl": "https://m.bnizona.com/files/78e43a607be6cf486844cfaea778d2b7.JPG",
+        "promo-title": "Free 3 Botol Sari Apel 330ml di Goedang Oleh Oleh Malang",
+        "valid-until": "valid until 31 October 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Taman Indie Malang",
+        "imageurl": "https://m.bnizona.com/files/f0ec506428b40d5c15a224e98b588a4c.png",
+        "promo-title": "Diskon Hingga 20% di Taman Indie Malang dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Food and Beverage",
+        "merchant-name": "Java Dancer Coffee",
+        "imageurl": "https://m.bnizona.com/files/d5a38afd2ce2c0879eb0111d7f40bad5.JPG",
+        "promo-title": "Diskon 25% di Java Dancer Malang Town Square dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Gadget",
+        "merchant-name": "Erafone",
+        "imageurl": "https://m.bnizona.com/files/908253088d22419c63ff424cb3fe7d0b.jpg",
+        "promo-title": "Cashback Rp 6 juta + Tambahan Cashback hingga Rp 2 juta + Cicilan 0% dengan Kartu Kredit BNI di XL Center",
+        "valid-until": "valid until 30 September 2017"
+    },
+    {
+        "category": "Gadget",
+        "merchant-name": "Indosat Oredoo",
+        "imageurl": "https://m.bnizona.com/files/b038a8f6071c592a2856da30892262f3.jpg",
+        "promo-title": "Kini Pembelian Paket Data Indosat Ooredoo Bisa melalui BNI",
+        "valid-until": "valid until 31 December 2018"
+    },
+    {
+        "category": "Gadget",
+        "merchant-name": "Erafone",
+        "imageurl": "https://m.bnizona.com/files/908253088d22419c63ff424cb3fe7d0b.jpg",
+        "promo-title": "Diskon 100 Ribu di Erafone.com dengan Kartu Kredit BNI",
+        "valid-until": "valid until 25 December 2017"
+    },
+    {
+        "category": "Gadget",
+        "merchant-name": "Swiss-Belhotel International",
+        "imageurl": "https://m.bnizona.com/files/fd8828c74eb004a1add5573891650a07.jpg",
+        "promo-title": "Beli Samsung dapat Samsung di Best N Cheap - Pekanbaru",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Electronic",
-        "data": []
+        "merchant-name": "Oktagon",
+        "imageurl": "https://m.bnizona.com/files/e5302bcde0907e40ae92240b3ec68690.jpg",
+        "promo-title": "Diskon 10% di Oktagon dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Electronic",
-        "data": []
+        "merchant-name": "Uchino Shokudo",
+        "imageurl": "https://m.bnizona.com/files/c14cb0c80c7f43ba4e71ef26b3020f91.jpg",
+        "promo-title": "Gratis Setrika di Yota Elektronik Probolinggo dengan Kartu Debit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Electronic",
-        "data": []
-    },
-    {
-        "category": "Gadget",
-        "data": []
-    },
-    {
-        "category": "Gadget",
-        "data": []
-    },
-    {
-        "category": "Gadget",
-        "data": []
-    },
-    {
-        "category": "Gadget",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Food and Beverage",
-        "data": []
-    },
-    {
-        "category": "Fashion",
-        "data": []
-    },
-    {
-        "category": "Fashion",
-        "data": []
-    },
-    {
-        "category": "Fashion",
-        "data": []
-    },
-    {
-        "category": "Fashion",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
-    },
-    {
-        "category": "e-Commerce",
-        "data": []
+        "merchant-name": "Toridoll Yakitori",
+        "imageurl": "https://m.bnizona.com/files/ec8b5ffb2ed2b9dc0aeab912a77ba271.png",
+        "promo-title": "Menangkan Sepeda Motor di J-Bros - Padang",
+        "valid-until": "valid until 24 August 2017"
     },
     {
         "category": "Entertainment",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Promo HUT RI 72 - Dining & Entertainment",
+        "valid-until": "valid until 03 September 2017"
     },
     {
         "category": "Entertainment",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Buka Rekening BNI, Gunakan Selalu Kartu Debitnya",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Entertainment",
-        "data": []
+        "merchant-name": "CGV Cinemas",
+        "imageurl": "https://m.bnizona.com/files/286f8ed41f100ef4730a7dc851291d61.jpg",
+        "promo-title": "Buy 3 Get 1 Free Ticket at CGV Cinemas with BNI Debit Card",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Entertainment",
-        "data": []
+        "merchant-name": "Hawai Waterpark - Malang",
+        "imageurl": "https://m.bnizona.com/files/a0daa507a7fe9818665e35a9c0e5ff42.jpg",
+        "promo-title": "Diskon 25% di Hawai Waterpark Malang dengan Kartu BNI",
+        "valid-until": "valid until 17 December 2017"
     },
     {
         "category": "Entertainment",
-        "data": []
+        "merchant-name": "Jawa Timur Park",
+        "imageurl": "https://m.bnizona.com/files/48b328dfc4f08db245f693061c9d7684.jpg",
+        "promo-title": "Diskon 20% setiap Jum'at, Sabtu, Minggu untuk pembelian tiket masuk reguler di Jatim Park",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "ES.Id",
+        "imageurl": "https://m.bnizona.com/files/abd2cb2398d7f01f52196c6add57f914.jpg",
+        "promo-title": "Diskon Hingga Rp 500 Ribu di ES.Id dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 August 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Promo HUT RI 72 - ECommerce",
+        "valid-until": "valid until 31 August 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "Shopee",
+        "imageurl": "https://m.bnizona.com/files/6442e5921355cc03fe86b5b3af607cb8.jpg",
+        "promo-title": "Diskon hingga Rp 35 ribu di Shopee Happy Monday dengan Kartu Kredit BNI",
+        "valid-until": "valid until 25 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "JD.id",
+        "imageurl": "https://m.bnizona.com/files/4206d03e03d764a3920ffec571a0d983.jpg",
+        "promo-title": "Diskon Hingga Rp 1 Juta Pembelian Motor Yamaha di JD.id dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 August 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Great Online Deals 2017 with BNI Credit Card",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Great Online Deals 2017 with BNI Credit Card",
+        "valid-until": "valid until 07 April 2018"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "blibli.com",
+        "imageurl": "https://m.bnizona.com/files/e5037e24126064d09e70b9b6d3673e04.png",
+        "promo-title": "Tambahan Diskon Rp 100 ribu di BLIBLI.com - BNI Great Wednesday",
+        "valid-until": "valid until 27 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "JD.id",
+        "imageurl": "https://m.bnizona.com/files/4206d03e03d764a3920ffec571a0d983.jpg",
+        "promo-title": "Cashback Rp 100 ribu + Cicilan 0 % di BNI Tuesday Deal JD.ID!",
+        "valid-until": "valid until 26 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "LAZADA.co.id",
+        "imageurl": "https://m.bnizona.com/files/e577e2fb8f839a0d2ee3de23499f93d7.png",
+        "promo-title": "Diskon 15% di BNI Thursday LAZADA.co.id",
+        "valid-until": "valid until 28 December 2017"
+    },
+    {
+        "category": "e-Commerce",
+        "merchant-name": "Bukalapak.com",
+        "imageurl": "https://m.bnizona.com/files/000e2077da454b2452b9fcced4763e46.jpg",
+        "promo-title": "Cicilan 0% di BUKALAPAK.com dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Pertamina",
+        "imageurl": "https://m.bnizona.com/files/2cefdac152c82c5fac11fd1fc1f33e5a.jpg",
+        "promo-title": "Dapatkan Harga Khusus Pertamax Turbo dari Kartu Kredit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "The Gym Malang",
+        "imageurl": "https://m.bnizona.com/files/c59f58ed5d07e5f0adb68cb9d83259c9.JPG",
+        "promo-title": "Diskon 20% di The Gym Malang dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Commuterline",
+        "imageurl": "https://m.bnizona.com/files/06e545bb1bfbddeed2fd4d08f97c905f.jpg",
+        "promo-title": "Hanya Bayar 71% Setiap Naik Commuterline di Hari Senin dengan TapCash",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Pertamina",
+        "imageurl": "https://m.bnizona.com/files/2cefdac152c82c5fac11fd1fc1f33e5a.jpg",
+        "promo-title": "Cashback 50 Ribu di SPBU Pertamina Jawa Tengah dan Yogyakarta",
+        "valid-until": "valid until 29 October 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Buka Rekening BNI, Gunakan Selalu Kartu Debitnya",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Kini bunga transaksi Kartu Kredit Anda lebih hemat",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Pertamina",
+        "imageurl": "https://m.bnizona.com/files/2cefdac152c82c5fac11fd1fc1f33e5a.jpg",
+        "promo-title": "Cashback hingga Rp 40 ribu di SPBU Pertamina Terpilih dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 October 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Pia Cap Mangkok",
+        "imageurl": "https://m.bnizona.com/files/a63611b99c74e579ffb1f5254a543c69.jpeg",
+        "promo-title": "Nexmedia Pay 9 for 12 months + Cashback 50% from 1st bill",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
+        "merchant-name": "Telkomsel",
+        "imageurl": "https://m.bnizona.com/files/f0a8be6df35a810ed4d45de31221f272.jpg",
+        "promo-title": "Lebih Banyak Reward & Benefit dengan Halo Kick Telkomsel",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Miscellaneous",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
-    },
-    {
-        "category": "Hotel",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Pertamina Fuel Lucky Swipe",
+        "valid-until": "valid until 30 November 2017"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Mayapada Hospital",
+        "imageurl": "https://m.bnizona.com/files/5b11598da24f9bf8d55a98cc2434b38d.jpg",
+        "promo-title": "Harga Spesial untuk Operasi Hernia dan Kasus Tendon & Syaraf Tangan di Mayapada Hospital",
+        "valid-until": "valid until 30 September 2017"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "RS Universitas Muhammadiyah Malang",
+        "imageurl": "https://m.bnizona.com/files/861dfe86195a42c366356c2f12b740bc.png",
+        "promo-title": "Diskon hingga 10% di RS Universitas Muhammadiyah Malang dengan Kartu BNI",
+        "valid-until": "valid until 30 June 2018"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Laboratorium Prodia",
+        "imageurl": "https://m.bnizona.com/files/b1e21e90ad54205dbabc34eecbf17f98.jpg",
+        "promo-title": "Potongan Harga hingga 10% di Laboratorium Klinik Prodia",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Bethsaida Hospital",
+        "imageurl": "https://m.bnizona.com/files/6fbcb38352572e34333759c9ed5fc0eb.jpg",
+        "promo-title": "Diskon 10% di Bethsaida Hospital dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 June 2018"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Rs. Hermina Jatinegara",
+        "imageurl": "https://m.bnizona.com/files/893953e16128291659536a9145af5747.jpg",
+        "promo-title": "Diskon hingga 20% di Rs. Hermina Jatinegara dengan Kartu BNI",
+        "valid-until": "valid until 30 September 2017"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Siloam Hospital",
+        "imageurl": "https://m.bnizona.com/files/ebf99a2e2676ca29c5a5883004c2daf9.jpg",
+        "promo-title": "Potongan Harga hingga 10% di Siloam Hospitals",
+        "valid-until": "valid until 30 April 2018"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Plataran X-Trail",
+        "imageurl": "https://m.bnizona.com/files/9fff71e5bd646c8d8aea45f6855be7e8.png",
+        "promo-title": "Dapatkan diskon hingga 10% di Laboratorium Klinik Prodia",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Health Service",
-        "data": []
+        "merchant-name": "Mayapada Hospital",
+        "imageurl": "https://m.bnizona.com/files/5b11598da24f9bf8d55a98cc2434b38d.jpg",
+        "promo-title": "Diskon hingga 10% di Mayapada Hospital Jakarta Selatan dan Mayapada Hospital Tangerang",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "pegipegi.com",
+        "imageurl": "https://m.bnizona.com/files/e10239f51b358f5b1c116fc34a1d4990.jpg",
+        "promo-title": "Diskon hingga Rp 100 Ribu untuk Pemesanan Tiket Pesawat & Kereta dan Diskon 30% untuk Pemesanan Hotel",
+        "valid-until": "valid until 24 November 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Tiket.com",
+        "imageurl": "https://m.bnizona.com/files/2d3edd6cf645fe42975f7eeda602c69f.png",
+        "promo-title": "Diskon Hingga Rp 550 Ribu untuk Pemesanan Tiket setiap Senin - Selasa di Tiket.com",
+        "valid-until": "valid until 30 November 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Louvre Hotels Group Indonesia",
+        "imageurl": "https://m.bnizona.com/themes/default/images/noimage.jpg",
+        "promo-title": "Diskon Hingga 20% di Louvre Hotels Group dengan Kartu BNI",
+        "valid-until": "valid until 29 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Parador Hotels & Resorts Group",
+        "imageurl": "https://m.bnizona.com/files/5047018fa7f5eb752d7c93874eadd16b.jpg",
+        "promo-title": "Diskon hingga 60% di Parador Hotel & Resorts Group dengan Kartu BNI",
+        "valid-until": "valid until 31 October 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Whiz Hotel",
+        "imageurl": "https://m.bnizona.com/files/17b3202a5cdf82df02cc9051257c00c2.JPG",
+        "promo-title": "Dapatkan Harga Spesial di Whiz Hotel dengan Kartu BNI",
+        "valid-until": "valid until 30 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "DoubleTree by Hilton Hotel Jakarta",
+        "imageurl": "https://m.bnizona.com/files/e40a0167dc161f9ac372bb58b51cf155.jpg",
+        "promo-title": "Diskon hingga 20% di DoubleTree by Hilton Hotel Jakarta dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Best Western Hotels & Resorts",
+        "imageurl": "https://m.bnizona.com/files/e7f27c4a6d2605ec522174d25753e78a.jpg",
+        "promo-title": "Diskon 20% di Best Western Hotels & Resorts dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Crowne Plaza Hotel",
+        "imageurl": "https://m.bnizona.com/files/91c58a5ea341602bd6f78531a53aba05.gif",
+        "promo-title": "Diskon hingga 35% di Crowne Plaza Jakarta Hotel dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 December 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Red Planet",
+        "imageurl": "https://m.bnizona.com/files/2296fa638fff0c7cc69f942542fc0105.jpg",
+        "promo-title": "Diskon 20% + Tambahan 10% di Red Planet dengan Kartu BNI",
+        "valid-until": "valid until 31 August 2017"
+    },
+    {
+        "category": "Hotel",
+        "merchant-name": "Kempinski",
+        "imageurl": "https://m.bnizona.com/files/154a6ed6bc4f798a4e02d337c19956df.png",
+        "promo-title": "Diskon hingga 25% di Kempinski Indonesia dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "pegipegi.com",
+        "imageurl": "https://m.bnizona.com/files/e10239f51b358f5b1c116fc34a1d4990.jpg",
+        "promo-title": "Diskon hingga Rp 100 Ribu untuk Pemesanan Tiket Pesawat & Kereta dan Diskon 30% untuk Pemesanan Hotel",
+        "valid-until": "valid until 24 November 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "Tiket.com",
+        "imageurl": "https://m.bnizona.com/files/2d3edd6cf645fe42975f7eeda602c69f.png",
+        "promo-title": "Diskon Hingga Rp 550 Ribu untuk Pemesanan Tiket setiap Senin - Selasa di Tiket.com",
+        "valid-until": "valid until 30 November 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Promo HUT RI 72 - Travel",
+        "valid-until": "valid until 30 August 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "pegipegi.com",
+        "imageurl": "https://m.bnizona.com/files/e10239f51b358f5b1c116fc34a1d4990.jpg",
+        "promo-title": "Diskon Hingga 150 Ribu untuk Pembelian Tiket Pesawat dan Hotel di Pegipegi.com",
+        "valid-until": "valid until 30 June 2018"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "Garuda Indonesia",
+        "imageurl": "https://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
+        "promo-title": "AyoLiburan dengan Kartu Kredit BNI New Titanium Style dan Garuda Indonesia",
+        "valid-until": "valid until 30 November 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Cicilan 0% untuk Paket Perjalanan Dubai + Bangkok dengan Kartu Kredit BNI",
+        "valid-until": "valid until 31 August 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "Garuda Indonesia",
+        "imageurl": "https://m.bnizona.com/files/8a69f74e29be0dd428a0c844a4355a0f.jpg",
+        "promo-title": "Bonus Hingga 1.000 Garuda Miles Untuk Aktivasi & Transaksi Pertama Kartu Kredit Garuda BNI",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Fantastic Holiday Deals Start from the Card",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "BNI",
+        "imageurl": "https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+        "promo-title": "Fantastic Holiday Deals Start from the Card",
+        "valid-until": "valid until 31 December 2017"
     },
     {
         "category": "Travel",
-        "data": []
+        "merchant-name": "Tiket.com",
+        "imageurl": "https://m.bnizona.com/files/2d3edd6cf645fe42975f7eeda602c69f.png",
+        "promo-title": "Diskon total hingga Rp 225.000,- di Tiket.com dengan Kartu Kredit BNI",
+        "valid-until": "valid until 30 November 2017"
     }
 ]
