@@ -1,25 +1,47 @@
+var osmosis = require('osmosis');
+var jsonfile = require('jsonfile');
 
-// load module
-var express     = require('express');
-var bodyParser  = require('body-parser');
-var http        = require('http');
-var fs          = require('fs');
+var link1  = 'https://m.bnizona.com/index.php/category/index/promo';
+var link2 = 'https://m.bnizona.com/promo/index/16';
 
-//  initial apps
-var app = express();
+var title=[];
+var json=[];
 
+// osmosis(link1)
+//     .find('.menu li')
+//     .set({
+//         Category: 'a',
+//     })
+//     .data(function(data){
+//         console.log(data)
+//         title.push(data)
+//     })
+//     // .log(console.log)
+//     // .debug(console.log)
+//     // .error(console.log)
+//     .done(function(){
+//         var file= 'solution.json';
+//         jsonfile.writeFile(file, json);
+//     });
 
-// use bodyparser to read json
-app.use(bodyParser.json());
-
-// initial link
-app.get('/',function(req,res){
-    // var obj={nama:'AisyMr',karir:'Software Engineer'};
-    var obj = JSON.parse(fs.readFileSync('solution.json','utf8'));
-	res.send(obj);
-});
-
-// set port
-app.listen(8000, function(){
-    console.log('listening on port 8000');
-});
+osmosis(link2)
+    .find('.list2 li')
+    .set(
+        {
+         "merchan-name"   : ".merchant-name",
+         "imageurl"       : "img@src",
+         "promo-title"    : ".promo-title",
+         "valid-until"    : ".valid-until"   
+        })
+    .data(function(data){
+            console.log(data);
+            json.push(data);
+        }
+    )
+    .log(console.log)
+    .debug(console.log)
+    .error(console.log)
+    .done(function(){
+        var file= 'solution.json';
+        jsonfile.writeFile(file, json);
+    });
