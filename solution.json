@@ -1,0 +1,105 @@
+{
+    "fashion":[
+        {
+            "merchant-name":"Centro",
+            "img":"https://m.bnizona.com/files/1aa0dd2a47c06f4e30d8bc304d9ad535.jpg",
+            "promo-title":"BNI Shop & Win dengan Kartu Kredit BNI di Centro Dept Store, Parkson Dept Store dan Parkson Gourmetmart",
+            "valid":"30 November 2017"
+        },
+        {
+            "merchant-name":"Megaria Batik Malang",
+            "img":"https://m.bnizona.com/files/9a4a52c02e396387dd4753ac4c48a469.png",
+            "promo-title":"Diskon hingga 20% di Megaria Batik Malang dengan Kartu BNI",
+            "valid":"30 April 2018"
+        },
+        {
+            "merchant-name":"Matsuya Ginza Jepang",
+            "img":"https://m.bnizona.com/files/c876924e3d04f5d3962ef3d14f049f53.jpg",
+            "promo-title":"Diskon 5% di Matsuya Ginza Jepang",
+            "valid":"30 April 2018"
+        },
+        {
+            "merchant-name":"Shafira",
+            "img":"https://m.bnizona.com/files/6efcf507ce5bd867ad106939fc2110ae.jpg",
+            "promo-title":"Diskon 25% di Shafira Group dengan Kartu Kredit BNI",
+            "valid":"31 Desember 2017"
+        }
+    ],
+    "grocier":[
+        {
+            "merchant-name":"Indomaret",
+            "img":"https://m.bnizona.com/files/c1aea2b86b2349ed45f7fc727d764337.JPG",
+            "promo-title":"Free 1 Minyak Goreng Bimoli Refill 1Lt di Indomaret dengan Kartu Kredit BNI",
+            "valid":"30 September 2017"
+        },
+        {
+            "merchant-name":"LOTTEMart Hypermarket",
+            "img":"https://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+            "promo-title":"Gratis 6 Produk Pilihan di LOTTEMart Hypermarket dengan Kartu Kredit BNI",
+            "valid":"27 August 2017"
+        },
+        {
+            "merchant-name":"Super Indo",
+            "img":"https://m.bnizona.com/files/a96a35abc24d8a7fae5d3d5f374c66d7.JPG",
+            "promo-title":"Diskon 20% untuk Fresh Product di Super Indo setiap Jumat, Sabtu, Minggu dengan Kartu BNI",
+            "valid":"27 August 2017"
+        },
+        {
+            "merchant-name":"Alfamidi",
+            "img":"https://m.bnizona.com/files/fa9567ce83ef967c97aaab7afed02fff.jpg",
+            "promo-title":"Free Chicken Stick So Good all variant & 1 Forvitta Margarine 200 Gr di Alfamidi dengan Kartu Debit BNI",
+            "valid":"31 August 2017"
+        },
+        {
+            "merchant-name":"FamilyMart",
+            "img":"https://m.bnizona.com/files/26cddebd901754e73075ae66aa139639.png",
+            "promo-title":"Dapatkan Fresh Beverages Seharga Rp 71,- di FamilyMart dengan TapCash FamilyMart",
+            "valid":"31 August 2017"
+        },
+        {
+            "merchant-name":"Indomaret",
+            "img":"https://m.bnizona.com/files/c1aea2b86b2349ed45f7fc727d764337.JPG",
+            "promo-title":"Gratis Minute Maid Pulpy Setiap Senin di Indomaret dengan TapCash",
+            "valid":"31 August 2017"
+        },
+        {
+            "merchant-name":"Alfamart",
+            "img":"https://m.bnizona.com/files/5b677f1f03197bce0c4a8f7fdbe98270.jpg",
+            "promo-title":"Dapatkan Kopiko 78 seharga Rp 71,- di Alfamart dengan TapCash",
+            "valid":"31 August 2017"
+        },
+        {
+            "merchant-name":"Toko Sinar Terang Lumajang",
+            "img":"https://m.bnizona.com/files/bcfd5c4979a6b047c1c11e5dfd11d46b.jpg",
+            "promo-title":"Gratis Minyak Goreng 1L di Toko Sinar Terang Lumajang dengan Kartu Debit BNI",
+            "valid":"31 August 2017"
+        },
+        {
+            "merchant-name":"BNI",
+            "img":"https://m.bnizona.com/files/f845be280c76043aba10fd47be51d975.jpeg",
+            "promo-title":"Belanja Hemat berawal dari Kartu Kredit BNI",
+            "valid":"31 December 2017"
+        },
+        {
+            "merchant-name":"LOTTEMart Hypermarket",
+            "img":"https://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+            "promo-title":"Tambahan diskon 10% dengan Kartu Kredit LOTTEMart setiap Sabtu di akhir bulan",
+            "valid":"31 December 2017"
+        },
+        {
+            "merchant-name":"LOTTEMart Hypermarket",
+            "img":"https://m.bnizona.com/files/63ba74328ee763a5c68f8e7c98a6c3a9.jpg",
+            "promo-title":"Belanja hemat dengan Kartu Kredit BNI Lotte Mart",
+            "valid":"31 December 2017"
+        }
+    ]
+    // ,
+    // "food":[
+    //     {
+    //         "merchant-name":"",
+    //         "img":"",
+    //         "promo-title":"",
+    //         "valid":""
+    //     },
+    // ]
+}
